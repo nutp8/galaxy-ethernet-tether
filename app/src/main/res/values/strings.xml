@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Galaxy Ethernet Tether</string>
+    <string name="accessibility_description">Opens Samsung Settings and taps the Ethernet tethering switch after user consent.</string>
+</resources>
